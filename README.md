@@ -1,3 +1,4 @@
-### This is a folder for learning records
-- In the next a couple of years, I will write things in CS-related fields in English.
-- Such as Container, Container Management, CI/CD, Linux, Data mining and so on.
+- In the next a couple of years, I would like to enrich myself by learning foundamental CS courses.
+
+- I decided to start from 6.0001
+- Just do it!
